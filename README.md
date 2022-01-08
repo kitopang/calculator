@@ -1,4 +1,4 @@
-# calculatorApp
+# calculator-app
 
 Inspired by Google's material design, this simple yet elegant calculator utilizes JavaFX and SceneBuilder libraries to compliment any desktop setup. Behind the scenes, it utilizes ArrayLists to queue computations and execute them once the equals key is pressed -- ensuring efficiency and accuracy. 
 
